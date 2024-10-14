@@ -1,1 +1,1 @@
-URL shortener realization on Golang
+RESTful URL shortener realization on Golang
